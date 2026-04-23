@@ -1,0 +1,10 @@
+build/
+.DS_Store
+*.user
+*.user.*
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+Makefile
+.qtc_clangd/
